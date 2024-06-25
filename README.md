@@ -17,3 +17,6 @@ Develop a recipe organizer application where users can create a personal cookboo
 - Local SQLite database to store user and recipe data.
 - React or Angular for the frontend to manage state effectively.
 - Effective use of contextBridge to manage data securely.
+
+  
+
